@@ -1,9 +1,17 @@
 ### Eduardo Ryô Tamaki
 
 Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidade Federal de Minas Gerais (UFMG). <br />
+*Pursuing Master's degree in Political Science by the Federal University of Minas Gerais (UFMG)*
+
 Bacharel em Ciências Sociais pela UFMG. <br />
+*Bachelor of Social Sciences by the Federal University of Minas Gerais (UFMG)*
+
 Pesquisador do [Centro de Estudos do Comportamento Político](https://www.facebook.com/CeComPolitico) (UFMG). <br />
-Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu/) (BYU). 
+*Researcher at the Center for Studies of Political Behavior (UFMG)*
+
+
+Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu/) (BYU).
+*Textual Analysis team at Team Populism (BYU)* 
 
 
 ### Research Interest :mag: :
