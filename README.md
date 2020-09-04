@@ -11,11 +11,10 @@ Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu
 
 
 
-### Find Me:
+### Find Me 📫 :
 [<img align="left" alt="Eduardo Tamaki | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="Ttytamaki.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-Qualquer coisa, só mandar um email [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img height="32" width="32" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />[gmail2]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Eduardo Tamaki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Eduardo Tamaki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -50,18 +49,6 @@ Qualquer coisa, só mandar um email [<img height="32" width="32" src="https://cd
 [researchgate]: https://www.researchgate.net/profile/Eduardo_Ryo_Tamaki
 [website]: https://ttytamaki.github.io
 [gmail]: mailto:eduardo.rtamaki@gmail.com
-[gmail2]: mailto:eduardo.rtamaki@gmail.com
-
 [twitter]: https://twitter.com/Ttytamaki
 [linkedin]: www.linkedin.com/in/eduardo-ryô-tamaki-5b936811a
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
