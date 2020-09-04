@@ -8,7 +8,10 @@ Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu
 
 ### Research Interest :mag: :
 
-
+- Political Science
+  - Political Behavior
+- Populism: **Demand** (Populist Attitudes) and **Supply**;
+- Globalization and Postmodern Values
 
 
 ### Find Me 📫 :
@@ -33,6 +36,8 @@ Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+
+***to be completed***
 
 <!-- BLOG-POST-LIST:END -->
 
