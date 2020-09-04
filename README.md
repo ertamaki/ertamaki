@@ -40,10 +40,11 @@ Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu
 <br />
 
 
-### 📕 Latest Blog Posts
+### :page_facing_up: Latest Articles
 <!-- BLOG-POST-LIST:START -->
 
-***to be completed***
+- [*Tamaki, E. R; Fuks, M. "POPULISM IN BRAZIL’S 2018 GENERAL ELECTIONS: AN ANALYSIS OF BOLSONARO’S CAMPAIGN SPEECHES". Lua Nova, 109. 2020](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-64452020000100103&lng=pt&nrm=iso)
+
 
 <!-- BLOG-POST-LIST:END -->
 
