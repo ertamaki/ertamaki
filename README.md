@@ -4,15 +4,14 @@ Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidad
 Bacharel em Ciências Sociais pela UFMG. <br />
 Pesquisador do [Centro de Estudos do Comportamento Político](https://www.facebook.com/CeComPolitico) (UFMG). <br />
 Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu/) (BYU). <br />
+Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <br />
 
 
 *Pursuing Master's degree in Political Science by the Federal University of Minas Gerais (UFMG)* <br />
 *Bachelor of Social Sciences by the Federal University of Minas Gerais (UFMG)* <br />
 *Researcher at the Center for Studies of Political Behavior (UFMG)* <br />
 *Textual Analysis team at Team Populism (BYU)*  <br />
-
-
-### Research Interest :mag: :
+*Researcher at Oswaldo Cruz Foundation (Fiocruz)* <br />
 
 - Political Science
   - Political Behavior
