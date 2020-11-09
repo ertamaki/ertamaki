@@ -43,7 +43,10 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 <!-- BLOG-POST-LIST:START -->
 
 - [Tamaki, E. R; Fuks, M. **"Populism in Brazil's 2018 General Elections: An Analysis of Bolsonaro's Campaign Speeches"**. Lua Nova, 109. 2020](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-64452020000100103&lng=pt&nrm=iso)
-
+- Castanho Silva, B.; Tamaki, E. R; Fuks, M. **"So Thin It’s Almost Invisible: Populist Attitudes and Voting Behavior in Brazil"** (*To be Published - 2021*)
+- Burni, A.; Tamaki, E. R. **"Denial, distraction and blame shifting: how the “superhero” Bolsonaro frames the COVID-19 in Brazil"** (*To be Published: PArtecipazione e COnflitto, 2021*)
+- Tamaki, E. R; Caetano, R. D.; Mendonça, R. F. **"The Weight of the Cross: The Use of Christianity in the Symbolic Construction of a Brazilian Messiah"** (Ed. by: Ofer Feldman. "*When Politicians Talk: The Cultural Dynamics of Public Speaking*" - 2021)
+- Pimenta, D.; Wenhan, C.; Bonan, C.; Nascimento, M.; Mendes, C.; Lotta, G.; Pimentel, C.; Rocha, M.; Tamaki, E. R; Schall, B. **"Gênero e Covid-19 no Brasil: múltiplas interseções"** (To be Translated - Fiocruz, 2021)
 
 <!-- BLOG-POST-LIST:END -->
 
