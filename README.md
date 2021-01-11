@@ -1,4 +1,4 @@
-<center> #### Eduardo Ryô Tamaki </center>
+#### Eduardo Ryô Tamaki
 
 Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidade Federal de Minas Gerais (UFMG). <br />
 Bacharel em Ciências Sociais pela UFMG. <br />
