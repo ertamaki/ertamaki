@@ -16,7 +16,11 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 - Political Science
   - Political Behavior
 - Populism: **Demand** (Populist Attitudes) and **Supply**;
-- Globalization and Postmodern Values
+- Globalization and Postmodern Values;
+  - Cultural Backlash and Self-Expression;
+
+
+#####
 
 
 ### Find Me 📫 :
@@ -36,7 +40,7 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttytamaki&layout=compact)](https://github.com/ttytamaki/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttytamaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -48,10 +52,25 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 <!-- BLOG-POST-LIST:START -->
 
 - [Tamaki, E. R; Fuks, M. **"Populism in Brazil's 2018 General Elections: An Analysis of Bolsonaro's Campaign Speeches"**. Lua Nova, 109. 2020](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-64452020000100103&lng=pt&nrm=iso)
-- Castanho Silva, B.; Tamaki, E. R; Fuks, M. **"So Thin It’s Almost Invisible: Populist Attitudes and Voting Behavior in Brazil"** (*To be Published - 2021*)
-- Burni, A.; Tamaki, E. R. **"Denial, distraction and blame shifting: how the “superhero” Bolsonaro frames the COVID-19 in Brazil"** (*To be Published: PArtecipazione e COnflitto, 2021*)
+- Castanho Silva, B.; Tamaki, E. R; Fuks, M. **"So Thin It’s Almost Invisible: Populist Attitudes and Voting Behavior in Brazil"** (*Pre-print - 2021*)
+- Burni, A.; Tamaki, E. R. **"Populist Communication During the Covid-19 Pandemic: the Case of Brazil’s President Bolsonaro"** (*To be Published: PArtecipazione e COnflitto, 2021*)
+- Ferreira, M. G.; Tamaki, E. R. **"Com a cruz e a espada: religião, voto e populismo na cruzada eleitoral de 2018 no Brasil"** (*Pre-print - 2021*)
+
+
+### :books: Chapters
 - Tamaki, E. R; Caetano, R. D.; Mendonça, R. F. **"The Weight of the Cross: The Use of Christianity in the Symbolic Construction of a Brazilian Messiah"** (Ed. by: Ofer Feldman. "*When Politicians Talk: The Cultural Dynamics of Public Speaking*" - 2021)
-- Pimenta, D.; Wenhan, C.; Bonan, C.; Nascimento, M.; Mendes, C.; Lotta, G.; Pimentel, C.; Rocha, M.; Tamaki, E. R; Schall, B. **"Gênero e Covid-19 no Brasil: múltiplas interseções"** (To be Translated - Fiocruz, 2021)
+- D. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, and P. Porto, **“Leituras de gênero sobre a covid-19 no brasil”**. Editora Fiocruz (*2021, In-Press*);
+- A. Burni, E. R. Tamaki, and D. N. Pimenta, **“A face feminina da pandemia de covid-19”**, in Pêsquisa Gênero e Diversidade. Memórias do IV Encontro de Pesquisa Por/De/Sobre Mulheres (*In-Press, 2021*);
+
+
+### :pencil: Interviews and Newspaper Articles
+- [E. R. Tamaki, **“Estudo aponta aumento do nível de populismo em convocação de bolsonaro”**](https://noticias.uol.com.br/politica/ultimas-noticias/2020/03/10/jair-bolsonaropopulismo-byu-ufmg-discursos-manifestacoes-15-marco-roraima.htm.), Uol Notícias, 2020;
+- [E. R. Tamaki, **“Morde e assopra de bolsonaro molda base engajada, dizem especialistas”**](https://noticias.uol.com.br/politica/ultimas-noticias/2020/10/30/morde-e-assopra-debolsonaro-molda-base-engajada-dizem-especialistas.htm), Uol Notícias, 2020;
+- [E. R. Tamaki and A. Burni, **“Bolsonaro virou ’super-herói populista’ na pandemia, diz pesquisa da ufmg”**](https://noticias.uol.com.br/politica/ultimasnoticias/2020/10/17/bolsonaro-virou-super-heroi-populista-na-pandemia-diz-pesquisa-da-ufmg.htm), Uol Notícias, 2020;
+
+
+### :satellite: Research Reports
+- D. N. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, P. Porto, P. Valente, and M. Matos, “**Desigualdades de gênero na pandemia: Plano de resposta à pandemia com perspectiva de gênero**”, 2020 (*Online: Website under Construction*);
 
 <!-- BLOG-POST-LIST:END -->
 
