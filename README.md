@@ -1,4 +1,4 @@
-<center> Eduardo Ryô Tamaki </center>
+<center> #### Eduardo Ryô Tamaki </center>
 
 Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidade Federal de Minas Gerais (UFMG). <br />
 Bacharel em Ciências Sociais pela UFMG. <br />
@@ -32,6 +32,11 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttytamaki&layout=compact)](https://github.com/ttytamaki/)
 
 
 
