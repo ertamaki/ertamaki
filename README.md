@@ -62,8 +62,8 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 
 ### :books: Chapters
 - Tamaki, E. R; Caetano, R. D.; Mendonça, R. F. **"The Weight of the Cross: The Use of Christianity in the Symbolic Construction of a Brazilian Messiah"** (Ed. by: Ofer Feldman. "*When Politicians Talk: The Cultural Dynamics of Public Speaking*" - 2021)
-- D. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, and P. Porto, **“Leituras de gênero sobre a covid-19 no brasil”**. Editora Fiocruz (*2021, In-Press*);
-- A. Burni, E. R. Tamaki, and D. N. Pimenta, **“A face feminina da pandemia de covid-19”**, in Pêsquisa Gênero e Diversidade. Memórias do IV Encontro de Pesquisa Por/De/Sobre Mulheres (*In-Press, 2021*);
+- D. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, and P. Porto. **“Leituras de gênero sobre a covid-19 no brasil”**. Editora Fiocruz (*2021, In-Press*);
+- A. Burni, E. R. Tamaki, and D. N. Pimenta. **“A face feminina da pandemia de covid-19”**, in Pêsquisa Gênero e Diversidade. Memórias do IV Encontro de Pesquisa Por/De/Sobre Mulheres (*In-Press, 2021*);
 
 
 ### :pencil: Interviews and Newspaper Articles
@@ -74,6 +74,7 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 
 ### :satellite: Research Reports
 - D. N. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, P. Porto, P. Valente, and M. Matos, “**Desigualdades de gênero na pandemia: Plano de resposta à pandemia com perspectiva de gênero**”, 2020 (*Online: Website under Construction*);
+ - Rosser E. N., Morgan R., Tan H., Hawkins K., Ngunjiri A., Oyekunle A., Schall B., Nacif Pimenta D., Tamaki E., Rocha M., and Wenham C. [“How to Create a GenderResponsive Pandemic Plan: Addressing the Secondary Effects of COVID-19"](https://www.genderandcovid-19.org/wp-content/uploads/2021/01/How-to-create-a-gender-responsive-pandemic-plan.pdf). Gender and Covid-19 Project. 2021;
 
 <!-- BLOG-POST-LIST:END -->
 
