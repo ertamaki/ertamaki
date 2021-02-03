@@ -1,5 +1,8 @@
 ### Eduardo Ryô Tamaki
 
+<img align='right' src="https://media.giphy.com/media/0Y0ySEj13sU1O1IQ23/giphy.gif" width="230">
+
+
 Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidade Federal de Minas Gerais (UFMG). <br />
 Bacharel em Ciências Sociais pela UFMG. <br />
 Pesquisador do [Centro de Estudos do Comportamento Político](https://www.facebook.com/CeComPolitico) (UFMG). <br />
