@@ -76,6 +76,10 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 - D. N. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, P. Porto, P. Valente, and M. Matos, “**Desigualdades de gênero na pandemia: Plano de resposta à pandemia com perspectiva de gênero**”, 2020 (*Online: Website under Construction*);
  - Rosser E. N., Morgan R., Tan H., Hawkins K., Ngunjiri A., Oyekunle A., Schall B., Nacif Pimenta D., Tamaki E., Rocha M., and Wenham C. [“How to Create a GenderResponsive Pandemic Plan: Addressing the Secondary Effects of COVID-19"](https://www.genderandcovid-19.org/wp-content/uploads/2021/01/How-to-create-a-gender-responsive-pandemic-plan.pdf). Gender and Covid-19 Project. 2021;
 
+
+### :computer: Mini Courses
+- [Introdução ao R](https://github.com/virgiliomendes/Mquinho_2020_Introd_R). E. R. Tamaki, V. A. Mendes. *MQuinho 2020*. MEIOS - Empresa Junior de Ciências Sociais da Universidade Federal de Minas Gerais. 15hrs. 2020;
+- [Introdução ao R](https://github.com/Ttytamaki/Intro_R_2021). E. R. Tamaki, V. A. Mendes, M. G. M. Ferreira. *Programa de Pós-Graduação em Ciência Política da Universidade Federal do Pará* em parceria com *CAPES PROCAD Amazônia*. 15hrs. 2021;
 <!-- BLOG-POST-LIST:END -->
 
 
