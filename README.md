@@ -54,10 +54,10 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 ### :page_facing_up: Latest Articles
 <!-- BLOG-POST-LIST:START -->
 
-- [Tamaki, E. R; Fuks, M. **"Populism in Brazil's 2018 General Elections: An Analysis of Bolsonaro's Campaign Speeches"**. Lua Nova, 109. 2020](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-64452020000100103&lng=pt&nrm=iso)
-- Castanho Silva, B.; Tamaki, E. R; Fuks, M. **"So Thin It’s Almost Invisible: Populist Attitudes and Voting Behavior in Brazil"** (*Pre-print - 2021*)
-- Burni, A.; Tamaki, E. R. **"Populist Communication During the Covid-19 Pandemic: the Case of Brazil’s President Bolsonaro"** (*To be Published: PArtecipazione e COnflitto, 2021*)
-- Ferreira, M. G.; Tamaki, E. R. **"Com a cruz e a espada: religião, voto e populismo na cruzada eleitoral de 2018 no Brasil"** (*Pre-print - 2021*)
+- [Tamaki, E. R; Fuks, M. **"Populism in Brazil's 2018 General Elections: An Analysis of Bolsonaro's Campaign Speeches"**. Lua Nova, 109. 2020](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-64452020000100103&lng=pt&nrm=iso);
+- Castanho Silva, B.; Tamaki, E. R; Fuks, M. **"So Thin It’s Almost Invisible: Populist Attitudes and Voting Behavior in Brazil"**. [Data](https://github.com/Ttytamaki/Populist_Attitudes). *Pre-print*. 2021;
+- Burni, A.; Tamaki, E. R. **"Populist Communication During the Covid-19 Pandemic: the Case of Brazil’s President Bolsonaro"**. *Under Peer-Review*. PArtecipazione e COnflitto. 2021;
+- Ferreira, M. G.; Tamaki, E. R. **"Com a cruz e a espada: religião, voto e populismo na cruzada eleitoral de 2018 no Brasil"**. Pre-print. Presented at IPSA-USP Summer School (2021) and Latin American Social and Public Policy Conference (LASPP). 2021;
 
 
 ### :books: Chapters
