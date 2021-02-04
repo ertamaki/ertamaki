@@ -61,9 +61,9 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 
 
 ### :books: Chapters
-- Tamaki, E. R; Caetano, R. D.; Mendonça, R. F. **"The Weight of the Cross: The Use of Christianity in the Symbolic Construction of a Brazilian Messiah"** (Ed. by: Ofer Feldman. "*When Politicians Talk: The Cultural Dynamics of Public Speaking*" - 2021)
-- D. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, and P. Porto. **“Leituras de gênero sobre a covid-19 no brasil”**. Editora Fiocruz (*2021, In-Press*);
-- A. Burni, E. R. Tamaki, and D. N. Pimenta. **“A face feminina da pandemia de covid-19”**, in Pêsquisa Gênero e Diversidade. Memórias do IV Encontro de Pesquisa Por/De/Sobre Mulheres (*In-Press, 2021*);
+- Tamaki, E. R; Caetano, R. D.; Mendonça, R. F. **"The Weight of the Cross: The Use of Christianity in the Symbolic Construction of a Brazilian Messiah"**. In: *When Politicians Talk: The Cultural Dynamics of Public Speaking*, Ed.: Ofer Feldman. Springer. *In-Press* - 2021. 
+- D. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, and P. Porto. **“Leituras de gênero sobre a covid-19 no brasil”**. Editora Fiocruz. *In-Press* - 2021;
+- A. Burni, E. R. Tamaki, and D. N. Pimenta. **“A face feminina da pandemia de covid-19”**, in Pêsquisa Gênero e Diversidade. Memórias do IV Encontro de Pesquisa Por/De/Sobre Mulheres. *In-Press* - 2021;
 
 
 ### :pencil: Interviews and Newspaper Articles
