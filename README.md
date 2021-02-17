@@ -79,8 +79,8 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 
 
 ### :computer: Mini Courses
-- [Introdução ao R](https://github.com/virgiliomendes/Mquinho_2020_Introd_R). E. R. Tamaki, V. A. Mendes. *MQuinho 2020*. MEIOS - Empresa Junior de Ciências Sociais da Universidade Federal de Minas Gerais. 15hrs. 2020;
 - [Introdução ao R](https://github.com/Ttytamaki/Intro_R_2021). E. R. Tamaki, V. A. Mendes, M. G. M. Ferreira. *Programa de Pós-Graduação em Ciência Política da Universidade Federal do Pará* em parceria com *CAPES PROCAD Amazônia*. 15hrs. 2021;
+- [Introdução ao R](https://github.com/virgiliomendes/Mquinho_2020_Introd_R). E. R. Tamaki, V. A. Mendes. *MQuinho 2020*. MEIOS - Empresa Junior de Ciências Sociais da Universidade Federal de Minas Gerais. 15hrs. 2020;
 <!-- BLOG-POST-LIST:END -->
 
 
