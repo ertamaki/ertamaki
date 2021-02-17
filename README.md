@@ -66,7 +66,8 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 - A. Burni, E. R. Tamaki, and D. N. Pimenta. **“A face feminina da pandemia de covid-19”**, in Pêsquisa Gênero e Diversidade. Memórias do IV Encontro de Pesquisa Por/De/Sobre Mulheres. *In-Press* - 2021;
 
 
-### :pencil: Interviews and Newspaper Articles
+### :pencil: Blog Posts, Interviews, and Newspaper Articles
+- Rosser E. N., Morgan R., Tan H., Hawkins K., Ngunjiri A., Oyekunle A., Schall B., Nacif Pimenta D., Tamaki E., Rocha M., and Wenham C. [Why your government needs a gender-responsive pandemic plan](https://apolitical.co/en/solution_article/why-your-government-needs-a-gender-responsive-pandemic-plan), Apolitical, 2021;
 - [E. R. Tamaki, **“Estudo aponta aumento do nível de populismo em convocação de bolsonaro”**](https://noticias.uol.com.br/politica/ultimas-noticias/2020/03/10/jair-bolsonaropopulismo-byu-ufmg-discursos-manifestacoes-15-marco-roraima.htm.), Uol Notícias, 2020;
 - [E. R. Tamaki, **“Morde e assopra de bolsonaro molda base engajada, dizem especialistas”**](https://noticias.uol.com.br/politica/ultimas-noticias/2020/10/30/morde-e-assopra-debolsonaro-molda-base-engajada-dizem-especialistas.htm), Uol Notícias, 2020;
 - [E. R. Tamaki and A. Burni, **“Bolsonaro virou ’super-herói populista’ na pandemia, diz pesquisa da ufmg”**](https://noticias.uol.com.br/politica/ultimasnoticias/2020/10/17/bolsonaro-virou-super-heroi-populista-na-pandemia-diz-pesquisa-da-ufmg.htm), Uol Notícias, 2020;
