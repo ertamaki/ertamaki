@@ -50,8 +50,9 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 <br />
 <br />
 
-
-### Try my [WhatsApp SpamBot](https://github.com/Ttytamaki/Wpp_SpamBot)  <img src="https://media.giphy.com/media/QtvHd6lI9q4iydr59B/giphy.gif" width="30">
+### Some Projects:
+- Try my [WhatsApp SpamBot](https://github.com/Ttytamaki/Wpp_SpamBot)  <img src="https://media.giphy.com/media/QtvHd6lI9q4iydr59B/giphy.gif" width="30">
+- Try my [SciHub Downloader](https://github.com/Ttytamaki/SciHub_Downloader) <img src="https://media.giphy.com/media/QBkKFl1WM4hSQNSxUM/giphy.gif" width="30">
 
 <br />
 <br />
