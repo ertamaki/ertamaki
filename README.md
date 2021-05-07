@@ -74,6 +74,9 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 
 
 ### :pencil: Blog Posts, Interviews, and Newspaper Articles
+
+
+- Ventura, D., Lotta, G., Pereira, C., Pimenta, D. N., Tamaki, E. R., e Wenham, C. ["Covid-19: Bolsonaro tells Brazilians to stop 'being a country of sissies'"](https://blogs.bmj.com/bmj/2021/05/04/covid-19-bolsonaro-tells-brazilians-to-stop-being-a-country-of-sissies/)
 - Rosser E. N., Morgan R., Tan H., Hawkins K., Ngunjiri A., Oyekunle A., Schall B., Nacif Pimenta D., Tamaki E., Rocha M., and Wenham C. [Why your government needs a gender-responsive pandemic plan](https://apolitical.co/en/solution_article/why-your-government-needs-a-gender-responsive-pandemic-plan), Apolitical, 2021;
 - [E. R. Tamaki, **“Estudo aponta aumento do nível de populismo em convocação de bolsonaro”**](https://noticias.uol.com.br/politica/ultimas-noticias/2020/03/10/jair-bolsonaropopulismo-byu-ufmg-discursos-manifestacoes-15-marco-roraima.htm.), Uol Notícias, 2020;
 - [E. R. Tamaki, **“Morde e assopra de bolsonaro molda base engajada, dizem especialistas”**](https://noticias.uol.com.br/politica/ultimas-noticias/2020/10/30/morde-e-assopra-debolsonaro-molda-base-engajada-dizem-especialistas.htm), Uol Notícias, 2020;
@@ -86,6 +89,7 @@ Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <
 
 
 ### :computer: Mini Courses
+- [Introdução ao R](https://github.com/Ttytamaki/Intro_R_2021). E. R. Tamaki, e V. A. Mendes. *Equalitas Jr - Empresa Junior de Gestão Pública da Universidade Federal de Minas Gerais*. Turmas 1 e 2 - 15hrs/turma - 30hrs total. 2021;
 - [Introdução ao R](https://github.com/Ttytamaki/Intro_R_2021). E. R. Tamaki, V. A. Mendes, M. G. M. Ferreira. *Programa de Pós-Graduação em Ciência Política da Universidade Federal do Pará* em parceria com *CAPES PROCAD Amazônia*. 15hrs. 2021;
 - [Introdução ao R](https://github.com/virgiliomendes/Mquinho_2020_Introd_R). E. R. Tamaki, V. A. Mendes. *MQuinho 2020*. MEIOS - Empresa Junior de Ciências Sociais da Universidade Federal de Minas Gerais. 15hrs. 2020;
 <!-- BLOG-POST-LIST:END -->
