@@ -3,24 +3,25 @@
 <img align='right' src="https://media.giphy.com/media/0Y0ySEj13sU1O1IQ23/giphy.gif" width="230">
 
 
-Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidade Federal de Minas Gerais (UFMG). <br />
-Bacharel em Ciências Sociais pela UFMG. <br />
-Pesquisador do [Centro de Estudos do Comportamento Político](https://www.facebook.com/CeComPolitico) (UFMG). <br />
-Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu/) (BYU). <br />
-Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz) <br />
+Research Fellow and Doctoral Researcher at the [German Institute for Global and Area Studies](https://www.giga-hamburg.de/en) <br />
+PhD Student by the University of Erfurt <br />
+MA in Political Science by the Federal University of Minas Gerais (UFMG) <br />
+Bachelor of Social Sciences by the Federal University of Minas Gerais (UFMG) <br />
+Researcher at the Center for Studies of Political Behavior (UFMG) <br />
+Textual Analysis team at [Team Populism](https://populism.byu.edu/)  <br />
+Team Leader of Young Scholars Initiative on Populism in [Team Populism](https://populism.byu.edu/) <br />
+Researcher at Oswaldo Cruz Foundation (Fiocruz) <br />
 
 
-*Pursuing Master's degree in Political Science by the Federal University of Minas Gerais (UFMG)* <br />
-*Bachelor of Social Sciences by the Federal University of Minas Gerais (UFMG)* <br />
-*Researcher at the Center for Studies of Political Behavior (UFMG)* <br />
-*Textual Analysis team at Team Populism (BYU)*  <br />
-*Researcher at Oswaldo Cruz Foundation (Fiocruz)* <br />
+*Pesquisador e Doutorando pelo Instituto Alemão de Estudos Globais e de Área (GIGA).* <br />
+*Doutorando em Ciência Política/Ciências Sociais pela Universidade de Erfurt.* <br />
+*Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidade Federal de Minas Gerais (UFMG).* <br />
+*Bacharel em Ciências Sociais pela UFMG.* <br />
+*Pesquisador do [Centro de Estudos do Comportamento Político](https://www.facebook.com/CeComPolitico) (UFMG).* <br />
+*Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu/) (BYU).* <br />
+*Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz)* <br />
 
-- Political Science
-  - Political Behavior
-- Populism: **Demand** (Populist Attitudes) and **Supply**;
-- Globalization and Postmodern Values;
-  - Cultural Backlash and Self-Expression;
+
 
 
 #####
