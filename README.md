@@ -4,7 +4,7 @@
 
 
 Research Fellow and Doctoral Researcher at the [German Institute for Global and Area Studies](https://www.giga-hamburg.de/en) <br />
-PhD Student by the University of Erfurt <br />
+PhD Student @University of Erfurt <br />
 MA in Political Science by the Federal University of Minas Gerais (UFMG) <br />
 Bachelor of Social Sciences by the Federal University of Minas Gerais (UFMG) <br />
 Researcher at the Center for Studies of Political Behavior (UFMG) <br />
