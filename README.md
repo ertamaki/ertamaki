@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/0Y0ySEj13sU1O1IQ23/giphy.gif" width="230">
 
-
+Lecturer at the Faculty of Economics and Social Sciences, University Hamburg <br />
 Research Fellow and Doctoral Researcher at the [German Institute for Global and Area Studies](https://www.giga-hamburg.de/en) <br />
 PhD Student @University of Erfurt <br />
 MA in Political Science by the Federal University of Minas Gerais (UFMG) <br />
@@ -13,6 +13,7 @@ Team Leader of Young Scholars Initiative on Populism in [Team Populism](https://
 Researcher at Oswaldo Cruz Foundation (Fiocruz) <br />
 
 
+*Professor Temporario da Faculdade de Ciencias Economicas e Sociais, Universidade de Hamburgo.* <br />
 *Pesquisador e Doutorando pelo Instituto Alemão de Estudos Globais e de Área (GIGA).* <br />
 *Doutorando em Ciência Política/Ciências Sociais pela Universidade de Erfurt.* <br />
 *Mestrando em Ciência Política pelo Programa de Pós-Graduação da Universidade Federal de Minas Gerais (UFMG).* <br />
@@ -20,7 +21,6 @@ Researcher at Oswaldo Cruz Foundation (Fiocruz) <br />
 *Pesquisador do [Centro de Estudos do Comportamento Político](https://www.facebook.com/CeComPolitico) (UFMG).* <br />
 *Membro da equipe de Análise Textual do [Team Populism](https://populism.byu.edu/) (BYU).* <br />
 *Pesquisador da [Fundação Oswaldo Cruz](https://portal.fiocruz.br/) (Fiocruz)* <br />
-
 
 
 
@@ -63,13 +63,13 @@ Researcher at Oswaldo Cruz Foundation (Fiocruz) <br />
 <!-- BLOG-POST-LIST:START -->
 
 - [Tamaki, E. R; Fuks, M. **"Populism in Brazil's 2018 General Elections: An Analysis of Bolsonaro's Campaign Speeches"**. Lua Nova, 109. 2020](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-64452020000100103&lng=pt&nrm=iso);
-- Castanho Silva, B.; Tamaki, E. R; Fuks, M. **"So Thin It’s Almost Invisible: Populist Attitudes and Voting Behavior in Brazil"**. [Data](https://github.com/Ttytamaki/Populist_Attitudes). *Pre-print*. 2021;
-- Burni, A.; Tamaki, E. R. **"Populist Communication During the Covid-19 Pandemic: the Case of Brazil’s President Bolsonaro"**. *Under Peer-Review*. PArtecipazione e COnflitto. 2021;
-- Ferreira, M. G.; Tamaki, E. R. **"Com a cruz e a espada: religião, voto e populismo na cruzada eleitoral de 2018 no Brasil"**. Pre-print. Presented at IPSA-USP Summer School (2021) and Latin American Social and Public Policy Conference (LASPP). 2021;
+- [Castanho Silva, B.; Tamaki, E. R; Fuks, M. **"So Thin It’s Almost Invisible: Populist Attitudes and Voting Behavior in Brazil"**. 2022](https://www.sciencedirect.com/science/article/abs/pii/S0261379421001463) [Data](https://github.com/Ttytamaki/Populist_Attitudes);
+- [Burni, A.; Tamaki, E. R. **"Populist Communication During the Covid-19 Pandemic: the Case of Brazil’s President Bolsonaro"**. PArtecipazione e COnflitto. 2021.](https://www.idos-research.de/en/others-publications/article/populist-communication-during-the-covid-19-pandemic-the-case-of-brazils-president-bolsonaro/);
+
 
 
 ### :books: Chapters
-- Tamaki, E. R; Caetano, R. D.; Mendonça, R. F. **"The Weight of the Cross: The Use of Christianity in the Symbolic Construction of a Brazilian Messiah"**. In: *When Politicians Talk: The Cultural Dynamics of Public Speaking*, Ed.: Ofer Feldman. Springer. *In-Press* - 2021. 
+- [Tamaki, E. R; Mendonça, R. F; Ferreiran M. **"The Symbolic Construction of a Messiah: Jair Bolsonaro’s Public, Christian Discourse"**. In: *When Politicians Talk: The Cultural Dynamics of Public Speaking*, Ed.: Ofer Feldman. Springer. 2021](https://www.springerprofessional.de/en/the-symbolic-construction-of-a-messiah-jair-bolsonaro-s-public-c/19621818);
 - D. Pimenta, C. Wenham, M. Rocha, B. Schall, C. Bonan, C. Mendes, M. Nascimento, G. Lotta, E. R. Tamaki, and P. Porto. **“Leituras de gênero sobre a covid-19 no brasil”**. In Gustavo Corrêa Mata, Ester Paiva, Sergio Rego e Jean Segata (Ed.): **Os Impactos Sociais da Covid-19 no Brasil: Populações Vulnerabilizadas e Respostas à Pandemia**. SciELO Livros - Editora Fiocruz. *In-Press* - 2021;
 - A. Burni, E. R. Tamaki, and D. N. Pimenta. **“A face feminina da pandemia de covid-19”**, in Pêsquisa Gênero e Diversidade. Memórias do IV Encontro de Pesquisa Por/De/Sobre Mulheres. *In-Press* - 2021;
 
