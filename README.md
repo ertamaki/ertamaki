@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/0Y0ySEj13sU1O1IQ23/giphy.gif" width="230">
 
 Lecturer at the Faculty of Economics and Social Sciences, University Hamburg <br />
-Research Fellow and Doctoral Researcher at the [German Institute for Global and Area Studies]([https://www.giga-hamburg.de/en](https://www.giga-hamburg.de/de/das-giga/team/eduardo-tamaki) <br />
+Research Fellow and Doctoral Researcher at the [German Institute for Global and Area Studies](https://www.giga-hamburg.de/de/das-giga/team/eduardo-tamaki) <br />
 Junior Visiting Researcher at [Central European University](https://democracyinstitute.ceu.edu/people/eduardo-tamaki) <br />
 Doctoral Student & EIPCC Early Career Researcher at [University of Erfurt](https://www.uni-erfurt.de/en/brandtschool/the-school/people/early-career-researchers/eduardo-ryo-tamaki) <br />
 MA in Political Science by the Federal University of Minas Gerais (UFMG) <br />
