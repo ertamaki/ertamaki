@@ -19,7 +19,6 @@ Team Leader of Young Scholars Initiative on Populism in [Team Populism](https://
 [<img align="left" alt="tamaki.ai" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Eduardo Tamaki | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Eduardo Tamaki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Eduardo Tamaki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -32,7 +31,7 @@ Team Leader of Young Scholars Initiative on Populism in [Team Populism](https://
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttytamaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertamaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -44,6 +43,5 @@ Team Leader of Young Scholars Initiative on Populism in [Team Populism](https://
 [website]: https://tamaki.ai
 [researchgate]: https://www.researchgate.net/profile/Eduardo_Ryo_Tamaki
 [gmail]: mailto:eduardo.rtamaki@gmail.com
-[twitter]: https://twitter.com/Ttytamaki
 [linkedin]: www.linkedin.com/in/eduardo-ryô-tamaki-5b936811a
 
