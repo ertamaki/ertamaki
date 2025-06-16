@@ -31,7 +31,6 @@ Team Leader of Young Scholars Initiative on Populism in [Team Populism](https://
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertamaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
